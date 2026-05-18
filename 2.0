@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -42,7 +41,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .logo-text{line-height:1.2}
 .logo-text .t1{font-size:13px;font-weight:600;color:white}
 .logo-text .t2{font-size:10px;color:rgba(255,255,255,0.55);font-weight:400}
-.search-wrap{flex:1;max-width:480px;margin:0 auto;position:relative}
+.search-wrap{flex:1;max-width:1400px;margin:0 auto;position:relative}
 .search-wrap input{width:100%;padding:7px 12px 7px 34px;border-radius:8px;border:none;background:rgba(255,255,255,0.12);color:white;font-size:12px;font-family:inherit;outline:none}
 .search-wrap input::placeholder{color:rgba(255,255,255,0.45)}
 .search-wrap::before{content:'🔍';position:absolute;left:10px;top:50%;transform:translateY(-50%);font-size:12px;opacity:0.5}
